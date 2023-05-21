@@ -1,0 +1,22 @@
+{
+  "name": "complex-algebra",
+  "version": "1.0.0",
+  "description": "this is a utility package for basic algebraic operations on complex numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderSomya/Complex-Algebra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderSomya/Complex-Algebra/issues"
+  },
+  "homepage": "https://github.com/coderSomya/Complex-Algebra#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
